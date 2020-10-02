@@ -21,3 +21,4 @@ A repo to get every one up to speed with 2018 Hactoberfest
 # Hacktoberfest Participants
 
 - [@kudapara](https://github.com/kudapara) - Kudakwashe Paradzayi
+- [@xMaNaSx](https://github.com/xMaNaSx) - Manas Yadav
